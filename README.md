@@ -1,9 +1,13 @@
 # CROPDATASPACE- Gestión resiliente de un espacio de datos abierto y colaborativo para la cadena agroalimentaria
 
 La UAL, como institución pública de investigación y difusión del conocimiento, asume un papel clave en la promoción de la economía del dato y la compartición de información entre distintos actores del ecosistema digital. El éxito de CROPDATASPACE depende de la colaboración activa de todos los participantes, cuyos principales grupos están todos representados en esta propuesta: Agricultores y empresas agroindustriales, Empresas tecnológicas y Investigadores y Universidad. Cada grupo de actores tiene responsabilidades concretas que contribuyen a la operatividad, sostenibilidad y crecimiento del espacio de datos.
+
 El espacio de datos propuesto en este proyecto se concibe como una evolución natural de los proyectos IoF2020, AgroConnect y Cybergreen de la universidad de Almería (UAL). Estos proyectos, junto a otros como LIFE-ACCLIMATE y AGRITECH EU, han establecido una base sólida en la gestión de recursos agroindustriales mediante el uso de tecnologías avanzadas y arquitecturas ciberfísicas.
+
 Infraestructura de AgroConnect como fuente de datos: El invernadero conectado de AgroConnect, equipado con sistemas avanzados de gestión de recursos y sensores en tiempo real, se posiciona como una fuente clave de datos ambientales y de producción. Este espacio de datos permitirá la recopilación y análisis de esta información para mejorar la sostenibilidad y eficiencia del sector.
+
 Arquitectura ciberfísica de Cybergreen como base tecnológica: Los modelos y algoritmos desarrollados por Cybergreen para optimizar el nexo agua-energía-carbono-alimento (WEFC) servirán como la base tecnológica del espacio de datos, ofreciendo capacidades avanzadas de análisis y control predictivo.
+
 La propuesta incorpora tecnologías innovadoras: IoT para recopilar datos en tiempo real, uso de gemelos digitales para mejorar la simulación, GMaaS (Greenhouse Models as a Service) para análisis predictivo, FIWARE para asegurar la interoperabilidad y soberanía de los datos y tecnologías avanzadas para mejora de la privacidad.
 
 ## Objetivos del Proyecto
